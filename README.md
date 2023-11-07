@@ -2,7 +2,6 @@
 
 - 🌱 Atualmente estudando linguagem de programação Java
 - 👯 Estou procurando colaborar em Back-End
-- 😄 Pronouns: Ele/Dele
 - ⚡ Fato sobre mim: Sou Monarca do castelo de Drangleic
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique1999&show_icons=true&theme=synthwave)
